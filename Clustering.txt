@@ -1,0 +1,7 @@
+Common issues for hierarchical aggolomerative clustering (HAC):
+1. start from bottom to top
+2. at the beginning, each element is a cluster
+3. each time, merge two clusters to be one cluster based on some criterion
+4. finally, only one cluster that contains all of the elements
+5. distance between two clusters: a. minimum; b. maximum; c. mean or centroid; d. average
+6. criteria for merge selection: the least, or comparison
